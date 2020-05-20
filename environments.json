@@ -1,0 +1,14 @@
+{
+     "port": 6060,
+     "auth": {
+     	"type": "OAuth2",
+  		"user": "juanveron.solutions@gmail.com",
+  		"clientId": "481640824543-5g8583dn5etoq8i35fqm6flb1nmqd3si.apps.googleusercontent.com",
+  		"clientSecret": "VXMeZMvo-9kYyksC_K9jWO1v",
+      "refreshToken": "1//04_fui6E8zJgECgYIARAAGAQSNwF-L9IrpZ3MIWMwCbqbyDAySb34egKFVTCnEfzvNJe8pGG21rAqs0gb8vfCl1qWGmnCML_soDg"
+     },
+     "smtp": "smtp.gmail.com",
+     "smtpPort": 465,
+     "emailSubject": "JVSolutions",
+     "emailService": "gmail"
+}
